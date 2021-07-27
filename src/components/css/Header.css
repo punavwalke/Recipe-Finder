@@ -1,0 +1,25 @@
+.search-form{
+    min-height: 10vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.search-bar{
+    width: 50%;
+    border: none;
+    padding: 10px;
+}
+.search-button{
+    background-color:#f9748f;
+    border: none;
+    padding: 10px 20px;
+    color: white;
+}
+
+.heading{
+    font-family: 'Lobster', cursive;
+    color:  #f9748f;
+    text-align: center;
+    padding-top:20px;
+  }
+  
